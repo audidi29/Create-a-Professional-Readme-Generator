@@ -26,3 +26,6 @@ No tests for this project
 
 ## Questions
 For any questions, please contact undefined at laetitia.ama@gmail.com.
+
+## Link of the walkthrough video
+https://watch.screencastify.com/v/CSCWMJMhXU4oaTWwWlsv
